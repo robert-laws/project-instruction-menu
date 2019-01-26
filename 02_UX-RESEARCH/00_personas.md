@@ -4,7 +4,7 @@
 
 History Professor
 
-![Michael](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/persona_1.jpg)
+![Photo of Michael](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/persona_1-thumb.jpg)
 
 #### Biographical Information
 
@@ -42,7 +42,7 @@ History Professor
 
 Research Librarian
 
-![Anna](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/persona_2.jpg)
+![Photo of Anna](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/persona_2-thumb.jpg)
 
 #### Biographical Information
 
