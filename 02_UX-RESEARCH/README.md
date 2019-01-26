@@ -5,3 +5,5 @@ To better understand the potential users for the instructional menu website, use
 * [Personas](00_personas.md)
 
 * [User Stories](01_user-stories.md)
+
+* [User Flows](02_user-flows.md)
