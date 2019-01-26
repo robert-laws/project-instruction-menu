@@ -2,9 +2,9 @@
 
 ## Michael, 41
 
-
-
 History Professor
+
+![Michael](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/persona_1.jpg)
 
 #### Biographical Information
 
@@ -41,6 +41,8 @@ History Professor
 ## Anna, 29
 
 Research Librarian
+
+![Anna](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/persona_2.jpg)
 
 #### Biographical Information
 
