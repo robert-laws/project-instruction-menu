@@ -10,4 +10,4 @@ The basic user flow for the website consists of a user
 
 #### User Flow Diagram
 
-![User Flow](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/user-flows.jpg)
+![User Flow](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/user-flow.jpg)
