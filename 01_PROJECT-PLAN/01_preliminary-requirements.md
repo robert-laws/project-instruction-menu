@@ -9,14 +9,15 @@
 * Must include descriptive information about each information literacy skill instruction including:
 
   * title
-  * time
-  * brief description
+  * length of time to teach
   * learning outcomes
-  * skill level category
+  * skill level category (color coding can be used)
+  * assessment
+  * color coding depending on type of instruction (ex. IL or technology)
 
 ## Display / UI
 
-* There a minimum of three pages
+* There a minimum of three pages - plus a thank you page upon submission
 
   * An introductory page with basic information about the site, it's purpose, and capabilities
   * A page with descriptive information about each instructional option available
@@ -24,19 +25,20 @@
 
 ## Functionality
 
-* The website offers the ability to fill out informaton about the instructional request including:
+* The website offers the ability to fill out information about the instructional request including:
 
-  * date and time of the instruction requested
-  * name of the requesting professor
   * title of course
+  * name of the requesting professor
+  * date and time of the instruction requested
+  * length of instruction requested
   * number of students
 
-* The descriptive instructional option page includes the ability to select one or more discreet instructional choices
+* The class builder page includes the ability to select one or more discreet instructional choices
 
-* The instructional selections result page will offer the ability to email or print out the details of the instrucitonal session choices
+* The lesson plan review page will offer the ability to submit, email or print out the details of the instructional session choices
 
 ## Features
 
-* The descriptive information page will allow users to view detailed information about an instructional item by toggling a hide/show frame
+* The class builder page will allow users to view detailed information about an instructional item
 
 * Selecting an instructional item will aggregate the total time based on the number of selections made
