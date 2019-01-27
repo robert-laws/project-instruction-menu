@@ -14,4 +14,4 @@ Another issue is that librarians need a tool that helps to organize what the lib
 
 To solve this problem, the library is proposing to create a menu of instructional services. The menu of services will provide a visual and interactive online space for professors and librarians to view what instructional services are available, devise lesson plan outlines, and determine the order and length of instruction. The solution will also include the capability of professors and librarians to create customized instruction plans and export those plans either by email and/or print.
 
-The website will also save statistical information that can be reviewed to see what instruction is most popular.
+The website will also save statistical information that can be reviewed to see what instruction is most popular. This will help librarian future planning.
