@@ -1,5 +1,34 @@
 # Personas
 
+## Anthony, 60
+
+#### Biographical Information
+
+* Comfortable with older technologies
+* Traditional views on library use and instruction
+* Not proactive with organization
+
+#### Key Goals
+
+* Wants students to find sources for course assignments
+* For students to get familiar with library research skills
+* Wants to place emphasis on academic authority of sources
+
+#### I must
+
+* be able to understand how to use the website easily
+
+#### Behaviors
+
+* Likes to have flexibility with making modifications to his selections
+* Have the ability to customize the website if it's missing content he wants
+
+#### I must Not
+
+* Have to read a lot of content before interacting with the website
+
+---
+
 ## Michael, 41
 
 History Professor
@@ -46,7 +75,7 @@ Research Librarian
 
 #### Biographical Information
 
-* Grew up using mobile technology
+* Adapted to using mobile technology
 * Is adept with online tools and technologies
 * Prefers to interact with faculty via email and online tools
 
