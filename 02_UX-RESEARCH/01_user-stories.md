@@ -11,3 +11,7 @@
 |I can read additional details about an instructional option|- investigate using a modal for details<br>- information should be listed in easy-to-read way|High|
 |I can export the final class instruction in one or more ways|- email would be a nice option here<br>- print view is another possibility<br>- need to make sure work can be saved/exported in some way|High|
 |I can save and retrieve the classes I build|- add a save feature option|Medium|
+|I can use the website even with some accessibility limitations|- investigate use of high contrast colors<br>- review accessibility standards|High|
+|I can easily use the website on a mobile device|- design and develop with mobile users in mind|High|
+|I can use the website without having to navigate between pages/refreshes|- investigate single page application (SPA) technologies|Low|
+|I can use the website "offline" as if it is a mobile app|- investigate Progressive Web Apps technologies|Low|
