@@ -4,7 +4,7 @@ This collaborative phase allows for wide ranging exploration of layouts, content
 
 #### Header Section
 
-The header section includes a logo for the site and navigation links - which can include informational pages about the library instruction policy, detailed listing of instructional components with learning outcomes and assessment details, and a means retrieving a previous class.
+The header section includes a logo for the site and navigation links - which can include informational pages about the library instruction policy, detailed listing of instructional components with learning outcomes and assessment details, the class builder tool, prebuilt examples of typical classes, and a means retrieving a previous class.
 
 #### Class Builder - Desktop
 
