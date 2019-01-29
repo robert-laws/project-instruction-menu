@@ -1,5 +1,7 @@
 # Ideation
 
+This collaborative phase allows for wide ranging exploration of layouts, content, and features for the instructional menu website. The exploration is based on the core feature requirements identified during the research phase.
+
 #### Header Section
 
 The header section includes a logo for the site and navigation links - which can include informational pages about the library instruction policy, detailed listing of instructional components with learning outcomes and assessment details, and a means retrieving a previous class.

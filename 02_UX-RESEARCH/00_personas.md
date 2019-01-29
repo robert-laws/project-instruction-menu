@@ -17,6 +17,7 @@
 #### I must
 
 * be able to understand how to use the website easily
+* be able to view detailed information about the library instruction options in a text-focused view
 
 #### Behaviors
 
