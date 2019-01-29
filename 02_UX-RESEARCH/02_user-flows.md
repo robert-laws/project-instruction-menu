@@ -1,6 +1,6 @@
 # User Flows
 
-The basic user flow for the website consists of a user 
+The basic user flow for the website consists of a user ...
 
 1. Entering the website and entering their name, date of the class, time length for the instruction and any other information
 
@@ -14,7 +14,7 @@ The basic user flow for the website consists of a user
 
 ---
 
-An alternative user flow consists of a user
+An alternative user flow consists of a user ...
 
 1. Beginning the interaction with the class builder immediately upon entering the site, with minimal user input needed
 
