@@ -5,3 +5,5 @@ Although the website is not complex in the number of pages or the amount of feat
 * [Ideation](00_ideation.md)
 
 * [Scenario Mapping](01_scenario-mapping.md)
+
+* [Inspiration & Ideas](02_inspiration.md)
