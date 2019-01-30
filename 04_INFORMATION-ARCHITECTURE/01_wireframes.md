@@ -30,10 +30,10 @@ Users can also view prebuilt class examples and potentially use it directly for 
 
 Users can also view a text-only version of the full catalog of instructional services via a data table.
 
-![Information Architecture - Wireframes](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/project-instruction-menu-wireframe-1.jpg)
+![Information Architecture - Wireframes](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/project-instruction-menu-wireframe-6.jpg)
 
 #### Drag and Drop Component Development
 
 Various concepts were developed for the drag and drop component as part of the wireframe exploration.
 
-![Information Architecture - Wireframes](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/project-instruction-menu-wireframe-6.jpg)
+![Information Architecture - Wireframes](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/project-instruction-menu-wireframe-1.jpg)
