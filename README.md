@@ -10,6 +10,6 @@ Repository for project assets and work progress.
 
 * [UX Exploration](03_UX-EXPLORATION)
 
-* [UX Design](04_UX-DESIGN)
+* [Information Architecture](04_INFORMATION-ARCHITECTURE)
 
-* [Information Architecture](05_INFORMATION-ARCHITECTURE)
+* [UX Design](05_UX-DESIGN)
