@@ -9,6 +9,7 @@ The purpose of this project is to develop a website that accomplishes the goals 
 #### Project Schedule
 
 * January 27 - 31, 2019 - Project Plan, UX Research, UX Exploration, and Information Architecture
+* February 3 - 7, 2019 - Content Development for activities and other sections
 * February 3 - 7, 2019 - UX Design and Prototyping
 * February 5 - 12, 2019 - Development
 * February 12 - 14, 2019 - Testing & Deployment
