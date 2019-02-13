@@ -21,3 +21,7 @@ A great source of ideas for future development is work done by other designers a
 [Drag a panel around](https://codepen.io/benkalsky/pen/ByJawa)
 
 [Drag and Drop UI](https://speckyboy.com/drag-and-drop-ui/)
+
+#### Mobile Drag and Drop example
+
+[Sorting on Mobile Device with Drag and Drop](https://unitid.nl/androidpatterns/uap_pattern/sort-drag-drop)
