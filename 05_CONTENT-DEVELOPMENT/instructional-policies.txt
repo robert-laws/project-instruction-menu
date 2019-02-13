@@ -27,3 +27,10 @@ We can help boost your students research skills with:
 * Videos
 * Handouts
 * Tutorials
+
+# Restrictions:
+
+Librarians cannot:
+
+* deliver a session if faculty is not present in the class
+* give a session without a prior notice of at least 3 days
