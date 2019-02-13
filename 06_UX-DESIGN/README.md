@@ -6,6 +6,4 @@ UX Design describes how the website will appear visually and how the User Interf
 
 * [Asset Development](01_asset-development.md)
 
-* [Content Development](02_content-development.md)
-
-* [Prototypes](03_prototypes.md)
+* [Prototypes](02_prototypes.md)
