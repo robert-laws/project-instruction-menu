@@ -32,8 +32,8 @@
 
 * **Learn**: The librarian explains what reference sources are (encyclopedias, dictionaries, etc.) and their usefulness.
 * **Remember**: Librarian discusses the place of reference resources within the research process
-* **Do**: On a piece of paper, students create Mind-Map using their topic/research question
-* **Going Further**: Students find information from a reference source, like Credo or Gale databases, based on terms from the Mind-Map they have created
+* **Activity**: On a piece of paper, students create Mind-Map using their topic/research question
+* **Alternative Activity**: Students find information from a reference source, like Credo or Gale databases, based on terms from the Mind-Map they have created
 
 ---
 
