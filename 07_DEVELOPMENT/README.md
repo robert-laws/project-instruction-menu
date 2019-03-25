@@ -1,5 +1,20 @@
 # Development
 
+### Foundations for development
+
+* Backend Data Storage - JSON
+* Backend Data Processing - PHP
+* Frontend Data Processing - Javascript (JQuery)
+* Frontend Design System - HTML5 (Pug preprocessor), CSS3 (Sass preprocessor)
+* Frontend Plugins - [JQuery UI](https://jqueryui.com), [JQuery Timepicker](https://timepicker.co)
+
+### Development Methodologies
+
+* [BEM](http://getbem.com/introduction/)
+* [Atomic Design System](https://medium.muz.li/building-design-systems-with-atomic-design-93a13286f676)
+
+---
+
 ## Includes
 
 * header -> Logo / Navigation
