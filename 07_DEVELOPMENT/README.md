@@ -8,23 +8,21 @@
 
 ## Pages & Organisms
 
-1. Class Builder
+* Class Builder
   * Instruction Card
   * Drop Zone
-1. Class Detail Form
+* Class Detail Form
   * Form Fields
   * Instruction View Zone - Card Based
-1. Confirmation Page
+* Confirmation Page
   * Class Details - User Designed
   * Instruction View Zone - Card Based
-1. Pre-built Classes
+* Pre-built Classes
   * Class Details - Generic
   * Instruction View Zone - Card Based
-1. Instruction Details Flow Table
+* Instruction Details Flow Table
   * Instruction Services Exposition
   * Instruction View Zone - Table
-  
---
 
 ## Organisms
 
