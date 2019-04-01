@@ -6,7 +6,7 @@ The major brand elements are adopted from the Georgetown University Library's we
 
 ![Website Color Palette](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/library-logo.png)
 
-![Website Color Palette](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/footer-log.png)
+![Website Color Palette](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/footer-logo.png)
 
 ## Color Palette
 
@@ -16,6 +16,6 @@ The color palette for this website mirrors the [corporate color palette for Geor
 
 ## Typography
 
-Headings use "Times New Roman", Times, serif
+Headings use **"Times New Roman", Times, serif**
 
-Flow content uses Arial, Verdana, sans-serif
+Flow content use **Arial, Verdana, sans-serif**
