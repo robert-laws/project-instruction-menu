@@ -1,7 +1,7 @@
 # Asset Development
 
-Ex: Dark background, white fonts, easily readable:
+The assets used for the website include corporate logos copied from the main library website.
 
-![image of logo1](https://github.com/paschalia/Menu/blob/master/logo.PNG)
+![Website Logo](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/library-logo.png)
 
-![image of logo2](https://github.com/paschalia/Menu/blob/master/logo2.PNG)
+![Website Footer Logo](https://github.com/robert-laws/project-instruction-menu-documentation/blob/master/98_support-documents/footer-logo-contrast.png)
